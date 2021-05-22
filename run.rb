@@ -41,4 +41,8 @@ module Run
   def added_on_master
     2
   end
+  
+  def more
+    3
+  end
 end
